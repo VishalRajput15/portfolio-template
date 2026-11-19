@@ -1,6 +1,6 @@
 # Python Portfolio Template
 
-[![Python CI](https://github.com/YOUR-USERNAME/portfolio-template/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/portfolio-template/actions/workflows/ci.yml)
+[![Python CI](https://github.com/VishalRajput15/portfolio-template/actions/workflows/ci.yml/badge.svg)](https://github.com/VishalRajput15/portfolio-template/actions/workflows/ci.yml)
 
 A reusable Python project template with automated testing
 and code quality checks.
