@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Testing and linting cache
+.pytest_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
